@@ -1,1 +1,21 @@
-dumama
+Đề tài: Hệ thống quản lý học tập
+
+3 Vai trò: Học sinh, Giảng viên, Admin
+
+- Học Sinh:
+	* Xem thông tin lớp học
+	* Xem các bài tập/ Deadline
+	* Nộp các bài tập
+	* Xem điểm số phần bài tập- điểm môn học
+
+
+- Giảng Viên: 
+	* Xem thông tin lớp học
+	* Tạo các deadline/ bài tập
+	* Tải xuống cấc bài nộp và chấm điểm
+	* Up điểm cho Sinh Viên
+	* Đăng các thông báo lớp học
+
+- Admin:
+	* Tạo/ Xóa lớp học
+	* Thêm/ xóa giảng viên, sinh viên khỏi lớp học
